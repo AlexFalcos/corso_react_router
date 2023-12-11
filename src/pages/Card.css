@@ -1,0 +1,19 @@
+.card-style {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    background-color: black;
+    border-radius: 30px;
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+}
+
+.card-margin {
+    margin-left: 35%;
+}
+
+.card-style>img {
+    margin-top: 5px;
+    max-height: 100%;
+}

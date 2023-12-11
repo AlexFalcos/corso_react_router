@@ -1,0 +1,38 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    margin: 30px;
+    width: 300px;
+    height: 400px;
+    transition: all 200ms ease-in;
+}
+
+.card-container:hover {
+    width: 310px;
+    height: 410px;
+}
+
+img {
+    max-height: 50%;
+}
+
+.rounded {
+    border-radius: 30px;
+}
+
+.titolo-card {
+    color: aliceblue;
+    font: bold;
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    color: darkgrey;
+    margin-top: 0;
+}
+
+h2 {
+    margin-bottom: 0;
+}

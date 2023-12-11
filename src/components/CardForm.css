@@ -1,0 +1,17 @@
+.campi-form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(28, 28, 28);
+    margin-left: 30px;
+}
+
+.card-grid-form {
+    display: grid;
+    column-gap: 5px;
+    width: 100px;
+}
+
+.button-form {
+    background-color: black;
+    margin-left: 30px;
+}
