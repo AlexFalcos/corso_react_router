@@ -8,7 +8,7 @@ function About(params) {
     return (
         <>
             <Navbar></Navbar>
-            <h1>Pagina About 🚀 (post )</h1>
+            <h1>Pagina About 🚀 (post inserimento su git)</h1>
         </>
     );
 }
