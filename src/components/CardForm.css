@@ -9,6 +9,7 @@
     display: grid;
     column-gap: 5px;
     width: 100px;
+    margin-left: 55px;
 }
 
 .button-form {
